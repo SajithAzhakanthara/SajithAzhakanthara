@@ -1,1 +1,1 @@
-# Hello. I'm Sajith A Digital Craftsman
+# Hello. I'm Sajith, a digital craftsman
