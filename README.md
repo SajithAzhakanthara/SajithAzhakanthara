@@ -8,4 +8,4 @@ I'm a 31 year old developer living in India. I discovered my passion for coding 
 
 ## Skillset
 
-HTML&nbsp;&nbsp;&nbsp;CSS
+HTML&nbsp;&nbsp;&nbsp;CSS&nbsp;&nbsp;&nbsp;JavaScript&nbsp;&nbsp;&nbsp;React js&nbsp;&nbsp;&nbsp;Bootstrap&nbsp;&nbsp;&nbsp;Astro&nbsp;&nbsp;&nbsp;Tailwind CSS
