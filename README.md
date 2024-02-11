@@ -9,3 +9,9 @@ I'm a 31 year old developer living in India. I discovered my passion for coding 
 ## Skillset
 
 HTML&nbsp;&nbsp;&nbsp;CSS&nbsp;&nbsp;&nbsp;JavaScript&nbsp;&nbsp;&nbsp;React Js&nbsp;&nbsp;&nbsp;Bootstrap&nbsp;&nbsp;&nbsp;Astro&nbsp;&nbsp;&nbsp;Tailwind CSS&nbsp;&nbsp;&nbsp;SASS&nbsp;&nbsp;&nbsp;Next Js&nbsp;&nbsp;&nbsp;Node Js&nbsp;&nbsp;&nbsp;Jquery&nbsp;&nbsp;&nbsp;HTML Email Templating&nbsp;&nbsp;&nbsp;Responsive Web Development&nbsp;&nbsp;&nbsp;Jira&nbsp;&nbsp;&nbsp;Git&nbsp;&nbsp;&nbsp;Postman
+
+## Experience
+
+2016 - 2023 ## Portrave Ssolutions Pvt Ltd
+
+Worked with the product team to develop new features for a vacation accommodation booking platform. I also ensured that the platform works smoothly on different devices. I used BrowserStack to recreate mobile environments and gain valuable insights for the development process. Additionally, I used Pact to create API contracts with mock data, making testing and development more efficient. I had experience working in a Kanban environment.
