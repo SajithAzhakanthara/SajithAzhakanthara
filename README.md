@@ -12,6 +12,10 @@ HTML&nbsp;&nbsp;&nbsp;CSS&nbsp;&nbsp;&nbsp;JavaScript&nbsp;&nbsp;&nbsp;React Js&
 
 ## Experience
 
-2016 - 2023 ## Portrave Ssolutions Pvt Ltd
+2023 - Present Gsoft Global
+
+Worked with product teams to create Ivr web application by implementing the UI using React and Astro. Also worked with the React Flow library to creat the work flow chart implimentation. Worked with multiple team members using Git and Jira for efficient work flow
+
+2016 - 2023  Portrave Ssolutions Pvt Ltd
 
 Worked with the product team to develop new features for a vacation accommodation booking platform. I also ensured that the platform works smoothly on different devices. I used BrowserStack to recreate mobile environments and gain valuable insights for the development process. Additionally, I used Pact to create API contracts with mock data, making testing and development more efficient. I had experience working in a Kanban environment.
