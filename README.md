@@ -4,7 +4,7 @@ I'm passionate about creating experiences that are easy to use, accessible, and 
 
 ## About me
 
-I'm a Frontend developer living in India. I discovered my passion for coding after seeing my friend do it. I fell in love with using my creativity to build things for the web. Through persistence, self-discipline, and commitment, I achieved my goal of becoming a fullstack developer. What kept me on this journey is that I always find learning new things exciting and facing unfamiliar challenges. In addition to coding, I enjoy building side projects because it allows me to explore my creativity and accomplish exciting things.
+I'm a Frontend developer living in India.Through persistence, self-discipline, and commitment, I achieved my goal of becoming a fullstack developer. What kept me on this journey is that I always find learning new things exciting and facing unfamiliar challenges. In addition to coding, I enjoy building side projects because it allows me to explore my creativity and accomplish exciting things.
 
 ## Skillset
 
